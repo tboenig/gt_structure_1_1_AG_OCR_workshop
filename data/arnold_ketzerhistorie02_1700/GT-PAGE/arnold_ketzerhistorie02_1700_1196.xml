@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arnold_ketzerhistorie02_1700_1196">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:43</Created>
+	<LastChange>2022-11-16T14:00:59</LastChange></Metadata>
+	<Page imageFilename="jpg/arnold_ketzerhistorie02_1700_1196.jpg" imageWidth="2977" imageHeight="4506" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="713,200 2638,200 2638,689 713,689"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="735,706 2664,706 2664,4054 735,4054"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="2395,4020 2564,4020 2564,4084 2395,4084"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

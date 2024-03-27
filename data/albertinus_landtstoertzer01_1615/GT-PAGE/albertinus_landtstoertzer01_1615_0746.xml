@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-albertinus_landtstoertzer01_1615_0746"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:26</Created>
+	<LastChange>2021-10-20T16:20:04</LastChange></Metadata><Page imageFilename="jpg/albertinus_landtstoertzer01_1615_0746.jpg" imageWidth="1780" imageHeight="2660" type="table-of-contents" primaryLanguage="German">
+	<Border>
+	<Coords points="1609,2567 1609,80 183,80 183,2567"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/>
+	<RegionRefIndexed regionRef="r14" index="8"/>
+	<RegionRefIndexed regionRef="region_3" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#heading_level1" type="heading">
+	<Coords points="310,250 1539,250 1539,579 310,579"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1390,2235 1399,2227 1558,2241 1556,2281 1543,2302 1439,2309 1412,2298"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="TOC-entry">
+	<Coords points="1529,851 1531,630 1419,622 340,627 338,725 412,723 427,784 425,873 599,872 626,852 630,805 634,787 690,787 917,793 1092,789 1327,776 1350,835 1367,856 1413,853"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="TOC-entry">
+	<Coords points="1537,1259 1530,883 1089,862 978,870 375,878 354,887 347,956 415,965 427,1041 419,1130 418,1216 430,1254 447,1272 644,1272 678,1279 697,1270"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="TOC-entry">
+	<Coords points="1527,1346 1535,1313 1521,1279 737,1287 587,1276 371,1277 372,1345"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="TOC-entry">
+	<Coords points="1537,1581 1544,1546 1538,1358 1411,1348 375,1358 373,1392 376,1426 440,1433 446,1495 451,1554 461,1587 632,1601 1501,1586"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="TOC-entry">
+	<Coords points="1563,1832 1563,1756 1539,1752 1463,1758 1398,1748 948,1758 636,1763 633,1775 537,1773 484,1772 467,1784 450,1760 375,1760 376,1808 384,1828"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="TOC-entry">
+	<Coords points="1527,1742 1545,1729 1550,1644 1544,1592 1451,1590 1299,1593 1083,1605 574,1612 520,1604 442,1599 368,1600 365,1640 383,1667 453,1687 456,1755 466,1762"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="TOC-entry">
+	<Coords points="1567,1967 1557,1838 377,1843 376,1904 453,1917 447,1974 467,1994 1232,1992 1235,1913 1458,1909 1464,1977 1548,1975"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="TOC-entry">
+	<Coords points="1554,2214 1557,1991 589,2004 526,2018 461,2013 431,2004 382,2003 374,2022 365,2079 463,2080 448,2211 444,2250 768,2244 805,2160 1485,2157 1482,2224 1514,2224"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

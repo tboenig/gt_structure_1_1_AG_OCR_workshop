@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abschatz_gedichte_1704_0005"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T12:33:20</Created>
+	<LastChange>2021-10-20T10:21:56</LastChange></Metadata><Page imageFilename="jpg/abschatz_gedichte_1704_0005.jpg" imageWidth="1024" imageHeight="1996" type="title">
+	<Border>
+	<Coords points="53,1621 53,70 929,70 929,1621"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r2" type="decoration">
+	<Coords points="304,1111 333,1067 367,1052 421,1041 461,1012 461,1011 483,1011 483,1010 502,1010 502,1012 651,1065 710,1169 728,1245 712,1311 663,1368 587,1394 519,1396 505,1390 489,1384 480,1387 466,1394 449,1397 372,1396 309,1365 244,1294 240,1225 252,1176 295,1122"/></GraphicRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="887,395 887,88 80,88 80,395 556,406 589,405 661,404 677,404"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="884,556 884,412 839,405 654,408 76,418 77,556"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="73,1005 76,567 539,563 573,558 587,558 890,566 904,667 902,793 747,1004 591,1029 560,1025 508,1003"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="900,1615 900,1465 76,1465 78,1607"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="70,1442 73,1386 327,1394 390,1400 473,1399 601,1398 604,1394 624,1391 647,1387 902,1380 901,1431 849,1435 327,1448"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

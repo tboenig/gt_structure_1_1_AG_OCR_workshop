@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-beck_eisen02_1895_1147"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:08:23</Created>
+	<LastChange>2022-01-18T11:50:59</LastChange></Metadata><Page imageFilename="jpg/beck_eisen02_1895_1147.jpg" imageWidth="3280" imageHeight="2435" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote">
+	<Coords points="2856,1509 2856,1651 585,1651 585,1509"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="2856,16 2856,1501 590,1501 590,16"/>
+	<SeparatorRegion id="r0">
+	<Coords points="596,17 596,1501 586,1501 586,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="2861,17 2861,1501 2851,1501 2851,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="591,6 2856,6 2856,16 591,16"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="591,1502 2856,1502 2856,1512 591,1512"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="596,17 596,1501 586,1501 586,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="2861,17 2861,1501 2851,1501 2851,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="591,6 2856,6 2856,16 591,16"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="591,1502 2856,1502 2856,1512 591,1512"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="596,17 596,1501 586,1501 586,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="2861,17 2861,1501 2851,1501 2851,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords points="768,17 768,598 772,634 768,669 768,1501 758,1501 758,669 762,634 758,598 758,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r11">
+	<Coords points="936,17 936,1501 926,1501 926,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords points="1045,17 1045,1501 1035,1501 1035,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="3" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r13">
+	<Coords points="1137,17 1137,1501 1127,1501 1127,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="4" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r14">
+	<Coords points="1255,17 1255,1501 1245,1501 1245,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r15">
+	<Coords points="1368,17 1368,598 1369,634 1371,669 1370,704 1371,737 1374,775 1374,803 1376,840 1376,872 1377,907 1379,945 1383,979 1383,1077 1388,1115 1387,1151 1387,1187 1389,1220 1390,1254 1390,1289 1392,1324 1393,1358 1394,1389 1395,1423 1396,1500 1386,1500 1385,1423 1384,1389 1383,1358 1382,1324 1380,1289 1380,1254 1379,1220 1377,1187 1377,1151 1378,1115 1373,1077 1373,979 1369,945 1367,907 1366,872 1366,840 1364,803 1364,775 1361,737 1360,704 1361,669 1359,634 1358,598 1358,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="5" rowSpan="37" colSpan="2"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r16">
+	<Coords points="1463,17 1463,634 1467,670 1467,705 1469,736 1470,775 1470,803 1472,839 1472,872 1474,907 1474,945 1476,980 1477,1015 1478,1044 1479,1077 1481,1116 1482,1151 1483,1188 1484,1220 1484,1253 1486,1288 1487,1324 1488,1358 1488,1389 1491,1422 1492,1502 1482,1502 1481,1422 1478,1389 1478,1358 1477,1324 1476,1288 1474,1253 1474,1220 1473,1188 1472,1151 1471,1116 1469,1077 1468,1044 1467,1015 1466,980 1464,945 1464,907 1462,872 1462,839 1460,803 1460,775 1459,736 1457,705 1457,670 1453,634 1453,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="6" rowSpan="37" colSpan="2"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r17">
+	<Coords points="1572,17 1572,497 1576,529 1575,566 1577,599 1576,632 1577,669 1580,705 1577,737 1582,776 1581,804 1583,840 1585,872 1586,907 1587,944 1587,980 1589,1013 1592,1044 1592,1078 1591,1117 1594,1151 1594,1187 1595,1221 1596,1253 1598,1289 1598,1323 1600,1357 1602,1389 1601,1423 1606,1500 1596,1500 1591,1423 1592,1389 1590,1357 1588,1323 1588,1289 1586,1253 1585,1221 1584,1187 1584,1151 1581,1117 1582,1078 1582,1044 1579,1013 1577,980 1577,944 1576,907 1575,872 1573,840 1571,804 1572,776 1567,737 1570,705 1567,669 1566,632 1567,599 1565,566 1566,529 1562,497 1562,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="7" rowSpan="37" colSpan="2"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r18">
+	<Coords points="1686,17 1686,529 1690,567 1690,599 1691,633 1690,669 1692,705 1692,736 1694,775 1695,804 1694,838 1698,872 1698,907 1699,946 1701,980 1701,1013 1703,1044 1703,1077 1702,1117 1706,1150 1706,1187 1707,1220 1708,1253 1709,1288 1710,1323 1711,1357 1711,1389 1713,1420 1714,1501 1704,1501 1703,1420 1701,1389 1701,1357 1700,1323 1699,1288 1698,1253 1697,1220 1696,1187 1696,1150 1692,1117 1693,1077 1693,1044 1691,1013 1691,980 1689,946 1688,907 1688,872 1684,838 1685,804 1684,775 1682,736 1682,705 1680,669 1681,633 1680,599 1680,567 1676,529 1676,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="8" rowSpan="37" colSpan="2"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r19">
+	<Coords points="1782,17 1782,529 1785,566 1785,634 1786,669 1787,706 1788,736 1788,774 1787,804 1792,839 1792,872 1791,907 1792,944 1794,980 1796,1016 1795,1043 1797,1077 1797,1118 1800,1152 1800,1187 1802,1220 1801,1253 1802,1289 1803,1323 1804,1359 1805,1388 1805,1423 1807,1500 1797,1500 1795,1423 1795,1388 1794,1359 1793,1323 1792,1289 1791,1253 1792,1220 1790,1187 1790,1152 1787,1118 1787,1077 1785,1043 1786,1016 1784,980 1782,944 1781,907 1782,872 1782,839 1777,804 1778,774 1778,736 1777,706 1776,669 1775,634 1775,566 1772,529 1772,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="9" rowSpan="35" colSpan="2"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r20">
+	<Coords points="1891,17 1891,1501 1881,1501 1881,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="12" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r21">
+	<Coords points="1891,17 1891,1501 1881,1501 1881,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="12" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r22">
+	<Coords points="2004,17 2004,1501 1994,1501 1994,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="13" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r23">
+	<Coords points="2099,17 2099,1501 2089,1501 2089,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="14" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r24">
+	<Coords points="2209,17 2209,1501 2199,1501 2199,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="15" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r25">
+	<Coords points="2323,17 2323,1501 2313,1501 2313,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="16" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r26">
+	<Coords points="2411,17 2411,1501 2401,1501 2401,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="17" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r27">
+	<Coords points="2526,17 2526,1501 2516,1501 2516,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="19" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r28">
+	<Coords points="2528,17 2528,1501 2518,1501 2518,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="19" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r29">
+	<Coords points="2638,17 2638,1501 2628,1501 2628,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="20" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r30">
+	<Coords points="2733,17 2733,1501 2723,1501 2723,17"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="21" rowSpan="37" colSpan="1"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r31">
+	<Coords points="591,6 2856,6 2856,16 591,16"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords points="591,1502 1250,1502 1391,1501 1487,1503 1601,1501 1709,1502 1802,1501 1886,1502 2856,1502 2856,1512 1886,1512 1802,1511 1709,1512 1601,1511 1487,1513 1391,1511 1250,1512 591,1512"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r33">
+	<Coords points="769,61 2850,61 2850,71 769,71"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords points="769,120 2850,120 2850,130 769,130"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r35">
+	<Coords points="769,181 2850,181 2850,191 769,191"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r36">
+	<Coords points="769,237 2850,237 2850,247 769,247"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r37">
+	<Coords points="769,315 2850,315 2850,325 769,325"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r38">
+	<Coords points="769,349 2850,349 2850,359 769,359"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r39">
+	<Coords points="769,388 2850,388 2850,398 769,398"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r40">
+	<Coords points="769,423 2850,423 2850,433 769,433"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r41">
+	<Coords points="769,457 2850,457 2850,467 769,467"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r42">
+	<Coords points="769,492 2850,492 2850,502 769,502"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r43">
+	<Coords points="769,524 2850,524 2850,534 769,534"/>
+	<Roles>
+	<TableCellRole rowIndex="10" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r44">
+	<Coords points="769,561 1570,561 1685,562 1780,561 2850,561 2850,571 1780,571 1685,572 1570,571 769,571"/>
+	<Roles>
+	<TableCellRole rowIndex="11" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r45">
+	<Coords points="769,593 1458,593 1572,594 1780,594 1886,593 2850,593 2850,603 1886,603 1780,604 1572,604 1458,603 769,603"/>
+	<Roles>
+	<TableCellRole rowIndex="12" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r46">
+	<Coords points="773,629 1458,629 1571,627 1686,628 1780,629 2850,629 2850,639 1780,639 1686,638 1571,637 1458,639 773,639"/>
+	<Roles>
+	<TableCellRole rowIndex="13" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r47">
+	<Coords points="769,664 1366,664 1462,665 1572,664 2850,664 2850,674 1572,674 1462,675 1366,674 769,674"/>
+	<Roles>
+	<TableCellRole rowIndex="14" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r48">
+	<Coords points="769,700 1250,700 1365,699 1462,700 1687,700 1782,701 1886,700 2850,700 2850,710 1886,710 1782,711 1687,710 1462,710 1365,709 1250,710 769,710"/>
+	<Roles>
+	<TableCellRole rowIndex="15" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r49">
+	<Coords points="769,731 1250,731 1366,732 1464,731 1572,732 1687,731 2850,731 2850,741 1687,741 1572,742 1464,741 1366,742 1250,741 769,741"/>
+	<Roles>
+	<TableCellRole rowIndex="16" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r50">
+	<Coords points="769,770 1465,770 1577,771 1689,770 1783,769 1886,770 2850,770 2850,780 1886,780 1783,779 1689,780 1577,781 1465,780 769,780"/>
+	<Roles>
+	<TableCellRole rowIndex="17" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r51">
+	<Coords points="769,799 1250,799 1369,798 1465,798 1576,799 2850,799 2850,809 1576,809 1465,808 1369,808 1250,809 769,809"/>
+	<Roles>
+	<TableCellRole rowIndex="18" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r52">
+	<Coords points="769,834 1250,834 1371,835 1467,834 1578,835 1689,833 1787,834 2850,834 2850,844 1787,844 1689,843 1578,845 1467,844 1371,845 1250,844 769,844"/>
+	<Roles>
+	<TableCellRole rowIndex="19" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r53">
+	<Coords points="769,867 2850,867 2850,877 769,877"/>
+	<Roles>
+	<TableCellRole rowIndex="20" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r54">
+	<Coords points="769,902 2850,902 2850,912 769,912"/>
+	<Roles>
+	<TableCellRole rowIndex="21" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r55">
+	<Coords points="769,940 1469,940 1582,939 1694,941 1787,939 1886,940 2850,940 2850,950 1886,950 1787,949 1694,951 1582,949 1469,950 769,950"/>
+	<Roles>
+	<TableCellRole rowIndex="22" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r56">
+	<Coords points="769,975 1250,975 1378,974 1471,975 2850,975 2850,985 1471,985 1378,984 1250,985 769,985"/>
+	<Roles>
+	<TableCellRole rowIndex="23" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r57">
+	<Coords points="769,1009 1250,1009 1378,1010 1472,1010 1584,1008 1696,1008 1791,1011 1886,1009 2850,1009 2850,1019 1886,1019 1791,1021 1696,1018 1584,1018 1472,1020 1378,1020 1250,1019 769,1019"/>
+	<Roles>
+	<TableCellRole rowIndex="24" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r58">
+	<Coords points="769,1039 1698,1039 1790,1038 1886,1039 2850,1039 2850,1049 1886,1049 1790,1048 1698,1049 769,1049"/>
+	<Roles>
+	<TableCellRole rowIndex="25" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r59">
+	<Coords points="769,1072 1474,1072 1587,1073 1698,1072 2850,1072 2850,1082 1698,1082 1587,1083 1474,1082 769,1082"/>
+	<Roles>
+	<TableCellRole rowIndex="26" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r60">
+	<Coords points="769,1111 1250,1111 1383,1110 1476,1111 1586,1112 1697,1112 1792,1113 1886,1111 2850,1111 2850,1121 1886,1121 1792,1123 1697,1122 1586,1122 1476,1121 1383,1120 1250,1121 769,1121"/>
+	<Roles>
+	<TableCellRole rowIndex="27" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r61">
+	<Coords points="769,1146 1589,1146 1701,1145 1795,1147 1886,1146 2850,1146 2850,1156 1886,1156 1795,1157 1701,1155 1589,1156 769,1156"/>
+	<Roles>
+	<TableCellRole rowIndex="28" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r62">
+	<Coords points="769,1182 1382,1182 1478,1183 1589,1182 2850,1182 2850,1192 1589,1192 1478,1193 1382,1192 769,1192"/>
+	<Roles>
+	<TableCellRole rowIndex="29" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r63">
+	<Coords points="769,1215 1479,1215 1590,1216 1702,1215 2850,1215 2850,1225 1702,1225 1590,1226 1479,1225 769,1225"/>
+	<Roles>
+	<TableCellRole rowIndex="30" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r64">
+	<Coords points="769,1248 1250,1248 1385,1249 1479,1248 2850,1248 2850,1258 1479,1258 1385,1259 1250,1258 769,1258"/>
+	<Roles>
+	<TableCellRole rowIndex="31" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r65">
+	<Coords points="769,1284 1385,1284 1481,1283 1593,1284 1704,1283 1797,1284 2850,1284 2850,1294 1797,1294 1704,1293 1593,1294 1481,1293 1385,1294 769,1294"/>
+	<Roles>
+	<TableCellRole rowIndex="32" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r66">
+	<Coords points="769,1318 1250,1318 1387,1319 1482,1319 1593,1318 2850,1318 2850,1328 1593,1328 1482,1329 1387,1329 1250,1328 769,1328"/>
+	<Roles>
+	<TableCellRole rowIndex="33" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r67">
+	<Coords points="769,1353 1483,1353 1595,1352 1706,1352 1799,1354 1886,1353 2850,1353 2850,1363 1886,1363 1799,1364 1706,1362 1595,1362 1483,1363 769,1363"/>
+	<Roles>
+	<TableCellRole rowIndex="34" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r68">
+	<Coords points="769,1384 1706,1384 1800,1383 1886,1384 2850,1384 2850,1394 1886,1394 1800,1393 1706,1394 769,1394"/>
+	<Roles>
+	<TableCellRole rowIndex="35" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<SeparatorRegion id="r69">
+	<Coords points="769,1417 1250,1417 1390,1418 1486,1417 1596,1418 1708,1415 1800,1418 1886,1417 2850,1417 2850,1427 1886,1427 1800,1428 1708,1425 1596,1428 1486,1427 1390,1428 1250,1427 769,1427"/>
+	<Roles>
+	<TableCellRole rowIndex="36" columnIndex="1" rowSpan="1" colSpan="21"/></Roles></SeparatorRegion>
+	<Grid>
+	<GridPoints index="0" points="591,17 763,17 931,17 1040,17 1132,17 1250,17 1363,17 1458,17 1567,17 1681,17 1777,17 1886,17 1886,17 1999,17 2094,17 2204,17 2318,17 2406,17 2521,17 2523,17 2633,17 2728,17 2856,17"/>
+	<GridPoints index="1" points="591,125 763,125 931,125 1040,125 1132,125 1250,125 1363,125 1458,125 1567,125 1681,125 1777,125 1886,125 1886,125 1999,125 2094,125 2204,125 2318,125 2406,125 2521,125 2523,125 2633,125 2728,125 2856,125"/>
+	<GridPoints index="2" points="591,186 763,186 931,186 1040,186 1132,186 1250,186 1363,186 1458,186 1567,186 1681,186 1777,186 1886,186 1886,186 1999,186 2094,186 2204,186 2318,186 2406,186 2521,186 2523,186 2633,186 2728,186 2856,186"/>
+	<GridPoints index="3" points="591,242 763,242 931,242 1040,242 1132,242 1250,242 1363,242 1458,242 1567,242 1681,242 1777,242 1886,242 1886,242 1999,242 2094,242 2204,242 2318,242 2406,242 2521,242 2523,242 2633,242 2728,242 2856,242"/>
+	<GridPoints index="4" points="591,320 763,320 931,320 1040,320 1132,320 1250,320 1363,320 1458,320 1567,320 1681,320 1777,320 1886,320 1886,320 1999,320 2094,320 2204,320 2318,320 2406,320 2521,320 2523,320 2633,320 2728,320 2856,320"/>
+	<GridPoints index="5" points="591,354 763,354 931,354 1040,354 1132,354 1250,354 1363,354 1458,354 1567,354 1681,354 1777,354 1886,354 1886,354 1999,354 2094,354 2204,354 2318,354 2406,354 2521,354 2523,354 2633,354 2728,354 2856,354"/>
+	<GridPoints index="6" points="591,393 763,393 931,393 1040,393 1132,393 1250,393 1363,393 1458,393 1567,393 1681,393 1777,393 1886,393 1886,393 1999,393 2094,393 2204,393 2318,393 2406,393 2521,393 2523,393 2633,393 2728,393 2856,393"/>
+	<GridPoints index="7" points="591,428 763,428 931,428 1040,428 1132,428 1250,428 1363,428 1458,428 1567,428 1681,428 1777,428 1886,428 1886,428 1999,428 2094,428 2204,428 2318,428 2406,428 2521,428 2523,428 2633,428 2728,428 2856,428"/>
+	<GridPoints index="8" points="591,462 763,462 931,462 1040,462 1132,462 1250,462 1363,462 1458,462 1567,462 1681,462 1777,462 1886,462 1886,462 1999,462 2094,462 2204,462 2318,462 2406,462 2521,462 2523,462 2633,462 2728,462 2856,462"/>
+	<GridPoints index="9" points="591,497 763,497 931,497 1040,497 1132,497 1250,497 1363,497 1458,497 1567,497 1681,497 1777,497 1886,497 1886,497 1999,497 2094,497 2204,497 2318,497 2406,497 2521,497 2523,497 2633,497 2728,497 2856,497"/>
+	<GridPoints index="10" points="591,529 763,529 931,529 1040,529 1132,529 1250,529 1363,529 1458,529 1571,529 1681,529 1777,529 1886,529 1886,529 1999,529 2094,529 2204,529 2318,529 2406,529 2521,529 2523,529 2633,529 2728,529 2856,529"/>
+	<GridPoints index="11" points="591,566 763,566 931,566 1040,566 1132,566 1250,566 1363,566 1458,566 1570,566 1685,567 1780,566 1886,566 1886,566 1999,566 2094,566 2204,566 2318,566 2406,566 2521,566 2523,566 2633,566 2728,566 2856,566"/>
+	<GridPoints index="12" points="591,598 763,598 931,598 1040,598 1132,598 1250,598 1363,598 1458,598 1572,599 1685,599 1780,599 1886,598 1886,598 1999,598 2094,598 2204,598 2318,598 2406,598 2521,598 2523,598 2633,598 2728,598 2856,598"/>
+	<GridPoints index="13" points="591,634 767,634 931,634 1040,634 1132,634 1250,634 1364,634 1458,634 1571,632 1686,633 1780,634 1886,634 1886,634 1999,634 2094,634 2204,634 2318,634 2406,634 2521,634 2523,634 2633,634 2728,634 2856,634"/>
+	<GridPoints index="14" points="591,669 763,669 931,669 1040,669 1132,669 1250,669 1366,669 1462,670 1572,669 1685,669 1781,669 1886,669 1886,669 1999,669 2094,669 2204,669 2318,669 2406,669 2521,669 2523,669 2633,669 2728,669 2856,669"/>
+	<GridPoints index="15" points="591,705 763,705 931,705 1040,705 1132,705 1250,705 1365,704 1462,705 1575,705 1687,705 1782,706 1886,705 1886,705 1999,705 2094,705 2204,705 2318,705 2406,705 2521,705 2523,705 2633,705 2728,705 2856,705"/>
+	<GridPoints index="16" points="591,736 763,736 931,736 1040,736 1132,736 1250,736 1366,737 1464,736 1572,737 1687,736 1783,736 1886,736 1886,736 1999,736 2094,736 2204,736 2318,736 2406,736 2521,736 2523,736 2633,736 2728,736 2856,736"/>
+	<GridPoints index="17" points="591,775 763,775 931,775 1040,775 1132,775 1250,775 1369,775 1465,775 1577,776 1689,775 1783,774 1886,775 1886,775 1999,775 2094,775 2204,775 2318,775 2406,775 2521,775 2523,775 2633,775 2728,775 2856,775"/>
+	<GridPoints index="18" points="591,804 763,804 931,804 1040,804 1132,804 1250,804 1369,803 1465,803 1576,804 1690,804 1782,804 1886,804 1886,804 1999,804 2094,804 2204,804 2318,804 2406,804 2521,804 2523,804 2633,804 2728,804 2856,804"/>
+	<GridPoints index="19" points="591,839 763,839 931,839 1040,839 1132,839 1250,839 1371,840 1467,839 1578,840 1689,838 1787,839 1886,839 1886,839 1999,839 2094,839 2204,839 2318,839 2406,839 2521,839 2523,839 2633,839 2728,839 2856,839"/>
+	<GridPoints index="20" points="591,872 763,872 931,872 1040,872 1132,872 1250,872 1371,872 1467,872 1580,872 1693,872 1787,872 1886,872 1886,872 1999,872 2094,872 2204,872 2318,872 2406,872 2521,872 2523,872 2633,872 2728,872 2856,872"/>
+	<GridPoints index="21" points="591,907 763,907 931,907 1040,907 1132,907 1250,907 1372,907 1469,907 1581,907 1693,907 1786,907 1886,907 1886,907 1999,907 2094,907 2204,907 2318,907 2406,907 2521,907 2523,907 2633,907 2728,907 2856,907"/>
+	<GridPoints index="22" points="591,945 763,945 931,945 1040,945 1132,945 1250,945 1374,945 1469,945 1582,944 1694,946 1787,944 1886,945 1886,945 1999,945 2094,945 2204,945 2318,945 2406,945 2521,945 2523,945 2633,945 2728,945 2856,945"/>
+	<GridPoints index="23" points="591,980 763,980 931,980 1040,980 1132,980 1250,980 1378,979 1471,980 1582,980 1696,980 1789,980 1886,980 1886,980 1999,980 2094,980 2204,980 2318,980 2406,980 2521,980 2523,980 2633,980 2728,980 2856,980"/>
+	<GridPoints index="24" points="591,1014 763,1014 931,1014 1040,1014 1132,1014 1250,1014 1378,1015 1472,1015 1584,1013 1696,1013 1791,1016 1886,1014 1886,1014 1999,1014 2094,1014 2204,1014 2318,1014 2406,1014 2521,1014 2523,1014 2633,1014 2728,1014 2856,1014"/>
+	<GridPoints index="25" points="591,1044 763,1044 931,1044 1040,1044 1132,1044 1250,1044 1378,1044 1473,1044 1587,1044 1698,1044 1790,1043 1886,1044 1886,1044 1999,1044 2094,1044 2204,1044 2318,1044 2406,1044 2521,1044 2523,1044 2633,1044 2728,1044 2856,1044"/>
+	<GridPoints index="26" points="591,1077 763,1077 931,1077 1040,1077 1132,1077 1250,1077 1378,1077 1474,1077 1587,1078 1698,1077 1792,1077 1886,1077 1886,1077 1999,1077 2094,1077 2204,1077 2318,1077 2406,1077 2521,1077 2523,1077 2633,1077 2728,1077 2856,1077"/>
+	<GridPoints index="27" points="591,1116 763,1116 931,1116 1040,1116 1132,1116 1250,1116 1383,1115 1476,1116 1586,1117 1697,1117 1792,1118 1886,1116 1886,1116 1999,1116 2094,1116 2204,1116 2318,1116 2406,1116 2521,1116 2523,1116 2633,1116 2728,1116 2856,1116"/>
+	<GridPoints index="28" points="591,1151 763,1151 931,1151 1040,1151 1132,1151 1250,1151 1382,1151 1477,1151 1589,1151 1701,1150 1795,1152 1886,1151 1886,1151 1999,1151 2094,1151 2204,1151 2318,1151 2406,1151 2521,1151 2523,1151 2633,1151 2728,1151 2856,1151"/>
+	<GridPoints index="29" points="591,1187 763,1187 931,1187 1040,1187 1132,1187 1250,1187 1382,1187 1478,1188 1589,1187 1701,1187 1795,1187 1886,1187 1886,1187 1999,1187 2094,1187 2204,1187 2318,1187 2406,1187 2521,1187 2523,1187 2633,1187 2728,1187 2856,1187"/>
+	<GridPoints index="30" points="591,1220 763,1220 931,1220 1040,1220 1132,1220 1250,1220 1384,1220 1479,1220 1590,1221 1702,1220 1797,1220 1886,1220 1886,1220 1999,1220 2094,1220 2204,1220 2318,1220 2406,1220 2521,1220 2523,1220 2633,1220 2728,1220 2856,1220"/>
+	<GridPoints index="31" points="591,1253 763,1253 931,1253 1040,1253 1132,1253 1250,1253 1385,1254 1479,1253 1591,1253 1703,1253 1796,1253 1886,1253 1886,1253 1999,1253 2094,1253 2204,1253 2318,1253 2406,1253 2521,1253 2523,1253 2633,1253 2728,1253 2856,1253"/>
+	<GridPoints index="32" points="591,1289 763,1289 931,1289 1040,1289 1132,1289 1250,1289 1385,1289 1481,1288 1593,1289 1704,1288 1797,1289 1886,1289 1886,1289 1999,1289 2094,1289 2204,1289 2318,1289 2406,1289 2521,1289 2523,1289 2633,1289 2728,1289 2856,1289"/>
+	<GridPoints index="33" points="591,1323 763,1323 931,1323 1040,1323 1132,1323 1250,1323 1387,1324 1482,1324 1593,1323 1705,1323 1798,1323 1886,1323 1886,1323 1999,1323 2094,1323 2204,1323 2318,1323 2406,1323 2521,1323 2523,1323 2633,1323 2728,1323 2856,1323"/>
+	<GridPoints index="34" points="591,1358 763,1358 931,1358 1040,1358 1132,1358 1250,1358 1388,1358 1483,1358 1595,1357 1706,1357 1799,1359 1886,1358 1886,1358 1999,1358 2094,1358 2204,1358 2318,1358 2406,1358 2521,1358 2523,1358 2633,1358 2728,1358 2856,1358"/>
+	<GridPoints index="35" points="591,1389 763,1389 931,1389 1040,1389 1132,1389 1250,1389 1389,1389 1483,1389 1597,1389 1706,1389 1800,1388 1886,1389 1886,1389 1999,1389 2094,1389 2204,1389 2318,1389 2406,1389 2521,1389 2523,1389 2633,1389 2728,1389 2856,1389"/>
+	<GridPoints index="36" points="591,1422 763,1422 931,1422 1040,1422 1132,1422 1250,1422 1390,1423 1486,1422 1596,1423 1708,1420 1800,1423 1886,1422 1886,1422 1999,1422 2094,1422 2204,1422 2318,1422 2406,1422 2521,1422 2523,1422 2633,1422 2728,1422 2856,1422"/>
+	<GridPoints index="37" points="591,1501 763,1501 931,1501 1040,1501 1132,1501 1250,1501 1391,1500 1487,1502 1601,1500 1709,1501 1802,1500 1886,1501 1886,1501 1999,1501 2094,1501 2204,1501 2318,1501 2406,1501 2521,1501 2523,1501 2633,1501 2728,1501 2856,1501"/></Grid></TableRegion></Page></PcGts>

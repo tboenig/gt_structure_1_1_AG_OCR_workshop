@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abschatz_gedichte_1704_0008"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:20</Created>
+	<LastChange>2021-10-19T13:04:19</LastChange></Metadata><Page imageFilename="jpg/abschatz_gedichte_1704_0008.jpg" imageWidth="1024" imageHeight="1996" type="content">
+	<Border>
+	<Coords points="973,1575 973,112 134,112 134,1575"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="183,192 957,207 940,1487 917,1495 155,1494"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="835,1501 939,1498 943,1546 832,1546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="767,194 767,139 411,139 411,194"/></SeparatorRegion></Page></PcGts>

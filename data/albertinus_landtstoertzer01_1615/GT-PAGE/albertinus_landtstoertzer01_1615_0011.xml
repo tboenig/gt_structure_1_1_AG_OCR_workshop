@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-albertinus_landtstoertzer01_1615_0011"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:26</Created>
+	<LastChange>2021-10-20T15:13:07</LastChange></Metadata><Page imageFilename="jpg/albertinus_landtstoertzer01_1615_0011.jpg" imageWidth="1780" imageHeight="2660" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="183,2587 183,87 1641,87 1641,2587"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="219,323 1340,297 1402,431 1400,616 1402,740 1325,1051 308,1066 376,829 376,776 212,783"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="668,1625 664,1137 683,1124 1415,1119 1434,2181 255,2211 222,1662 240,1625"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1312,2212 1445,2212 1433,2284 1325,2290"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="704,2219 947,2222 941,2318 712,2320"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords points="657,1596 657,1131 205,1131 205,1596"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

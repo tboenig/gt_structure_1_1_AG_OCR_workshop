@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-achenwall_staatswissenschaft_1749_0019"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:24</Created>
+	<LastChange>2021-10-20T13:45:24</LastChange></Metadata><Page imageFilename="jpg/achenwall_staatswissenschaft_1749_0019.jpg" imageWidth="2948" imageHeight="3717" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="177,3500 177,172 2250,172 2250,3500"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/>
+	<RegionRefIndexed regionRef="region_7" index="6"/>
+	<RegionRefIndexed regionRef="region_8" index="7"/>
+	<RegionRefIndexed regionRef="region_9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="619,416 1268,413 1257,509 615,501"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1534,463 1589,459 1577,528 1530,524"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="endnote">
+	<Coords points="319,557 1574,593 1551,1031 312,995 315,954 307,795"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level2" type="heading">
+	<Coords points="809,1118 1001,1122 984,1178 801,1180"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="298,1218 1551,1256 1539,1995 231,1962 245,1231"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#heading_level2" type="heading">
+	<Coords points="774,2060 880,2066 977,2089 957,2145 778,2142"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="paragraph">
+	<Coords points="240,2177 1546,2210 1546,2245 1533,2848 231,2827"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" type="signature-mark">
+	<Coords points="743,2846 890,2872 869,2928 740,2919"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" type="catch-word">
+	<Coords points="1339,2863 1530,2878 1516,2931 1336,2933"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

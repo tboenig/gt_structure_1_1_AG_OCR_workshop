@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-alexis_ruhe05_1852_0136"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:07:36</Created>
+	<LastChange>2021-11-04T14:40:34</LastChange></Metadata><Page imageFilename="jpg/alexis_ruhe05_1852_0136.jpg" imageWidth="1828" imageHeight="2511" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="1827,2271 1827,287 600,287 600,2271"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="1248,328 1326,328 1326,373 1248,373"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="780,1806 781,1806 781,1752 783,1752 783,1607 784,1607 784,1494 785,1494 785,1432 788,1432 788,1389 789,1389 789,1338 790,1338 790,1194 789,1194 789,1103 788,1103 788,992 787,992 787,954 789,954 789,863 791,863 791,800 793,800 793,691 794,691 794,594 795,594 795,421 836,421 836,424 904,424 904,429 983,429 983,424 1016,424 1016,426 1082,426 1082,430 1090,430 1090,432 1168,432 1168,424 1192,424 1192,432 1217,432 1217,434 1227,434 1227,435 1301,435 1301,433 1320,433 1320,434 1455,434 1455,427 1473,427 1473,428 1543,428 1543,429 1574,429 1574,436 1607,436 1607,438 1694,438 1694,429 1768,429 1768,583 1766,583 1766,726 1765,726 1765,796 1763,796 1763,837 1762,837 1762,974 1764,974 1764,1017 1765,1017 1765,1035 1764,1035 1764,1100 1762,1100 1762,1259 1763,1259 1763,1330 1760,1330 1760,1437 1759,1437 1759,1605 1758,1605 1758,1650 1755,1650 1755,1755 1754,1755 1754,1848 1753,1848 1753,1971 1691,1971 1691,1979 1633,1979 1633,1977 1562,1977 1562,1969 1469,1969 1469,1967 1356,1967 1356,1974 1305,1974 1305,1966 1209,1966 1209,1974 1176,1974 1176,1997 1153,1997 1153,1963 1131,1963 1131,1962 1062,1962 1062,1961 947,1961 947,1967 927,1967 927,1966 780,1966"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="1393,391 1393,376 1176,376 1176,391"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-albertinus_landtstoertzer01_1615_0019"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:26</Created>
+	<LastChange>2021-10-20T15:34:15</LastChange></Metadata><Page imageFilename="jpg/albertinus_landtstoertzer01_1615_0019.jpg" imageWidth="1780" imageHeight="2660" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="190,2567 190,96 1664,96 1664,2567"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="r1" index="3"/>
+	<RegionRefIndexed regionRef="r3" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="685,222 940,225 972,285 951,300 705,303"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="238,331 1407,338 1415,1231 1011,1224 1001,1307 938,1329 235,1320"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#closer" type="paragraph">
+	<Coords points="222,1514 468,1520 487,1615 231,1609"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" custom="#closer" type="paragraph">
+	<Coords points="431,1807 787,1822 783,1905 438,1899"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" custom="#closer" type="paragraph">
+	<Coords points="683,2018 1407,2024 1401,2183 1105,2185 1094,2253 731,2253 679,2098"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

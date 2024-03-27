@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abschatz_gedichte_1704_0503"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:20</Created>
+	<LastChange>2021-10-19T14:28:57</LastChange></Metadata><Page imageFilename="jpg/abschatz_gedichte_1704_0503.jpg" imageWidth="1024" imageHeight="2038" type="content">
+	<Border>
+	<Coords points="50,1627 50,80 940,80 940,1627"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="region_1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="region_2" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="region_4" index="6"/>
+	<RegionRefIndexed regionRef="region_5" index="7"/>
+	<RegionRefIndexed regionRef="region_6" index="8"/>
+	<RegionRefIndexed regionRef="region_7" index="9"/>
+	<RegionRefIndexed regionRef="region_8" index="10"/>
+	<RegionRefIndexed regionRef="region_9" index="11"/>
+	<RegionRefIndexed regionRef="r3" index="12"/>
+	<RegionRefIndexed regionRef="region_10" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="264,198 633,198 633,253 264,253"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="241,335 237,286 238,275 243,265 814,263 807,621 177,621 179,337"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="122,743 120,689 121,670 861,668 859,814 64,810 66,744"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#poem_lg" type="paragraph">
+	<Coords points="67,820 308,821 858,828 861,967 64,967"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#poem_lg" type="paragraph">
+	<Coords points="65,975 777,980 787,1070 774,1119 62,1117"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" custom="#poem_lg" type="paragraph">
+	<Coords points="66,1127 785,1133 791,1273 66,1274"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" custom="#poem_lg" type="paragraph">
+	<Coords points="63,1283 811,1283 806,1424 58,1423"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" custom="#poem_lg" type="paragraph">
+	<Coords points="57,1431 761,1436 754,1508 58,1509"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_10" type="signature-mark">
+	<Coords points="539,1510 591,1510 586,1540 533,1546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="636,162 636,115 306,115 306,162"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="881,195 881,177 76,177 76,195"/></SeparatorRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords points="883,169 883,120 835,120 835,169"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords points="868,1550 868,1504 800,1504 800,1550"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="509,664 509,625 385,625 385,664"/></SeparatorRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords points="238,332 235,294 236,266 181,266 181,332"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords points="120,740 118,691 118,670 69,670 69,740 86,742 101,742"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

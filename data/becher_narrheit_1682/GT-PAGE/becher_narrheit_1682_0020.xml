@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-becher_narrheit_1682_0020">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:08</Created>
+	<LastChange>2022-11-10T17:04:19</LastChange></Metadata>
+	<Page imageFilename="jpg/becher_narrheit_1682_0020.jpg" imageWidth="1024" imageHeight="1840" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="931,214 931,456 932,456 932,575 933,575 933,577 934,577 934,578 935,578 935,586 936,586 936,589 937,589 937,637 941,637 941,708 937,708 937,925 938,925 938,972 939,972 939,1048 940,1048 940,1323 906,1323 906,1324 893,1324 893,1325 880,1325 880,1326 827,1326 827,1327 774,1327 774,1328 721,1328 721,1329 669,1329 669,1330 616,1330 616,1331 563,1331 563,1332 510,1332 510,1333 458,1333 458,1334 405,1334 405,1335 352,1335 352,1336 300,1336 300,1337 300,214"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="939,1328 939,1385 878,1385 878,1334 888,1334 888,1333 889,1333 889,1332 890,1332 890,1331 891,1331 891,1330 910,1330 910,1328"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="634,163 634,174 639,174 639,176 652,176 652,181 654,181 654,182 666,182 666,183 669,183 669,184 670,184 670,185 671,185 671,187 672,187 672,189 682,189 682,190 683,190 683,191 684,191 684,197 683,197 683,198 682,198 682,199 681,199 681,200 680,200 680,210 676,210 676,212 658,212 658,211 598,211 598,210 597,210 597,206 582,206 582,204 581,204 581,202 578,202 578,201 572,201 572,200 571,200 571,199 569,199 569,198 568,198 568,194 569,194 569,190 571,190 571,189 573,189 573,188 581,188 581,187 582,187 582,186 583,186 583,185 584,185 584,184 605,184 605,166 630,166 630,163"/></SeparatorRegion></Page></PcGts>

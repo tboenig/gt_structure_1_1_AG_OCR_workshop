@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abel_leibmedicus_1699_0009"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T13:33:18</Created>
+	<LastChange>2021-10-20T09:56:31</LastChange></Metadata><Page imageFilename="jpg/abel_leibmedicus_1699_0009.jpg" imageWidth="1039" imageHeight="1700" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="60,1602 60,52 914,52 914,1602"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="366,77 439,77 457,83 507,87 519,83 574,83 569,114 568,120 567,132 533,134 522,133 506,133 495,132 426,132 418,130 371,127"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="98,148 840,154 829,546 819,1413 98,1416"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="488,1419 586,1422 577,1481 477,1478 486,1446 487,1436"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="762,1427 784,1422 813,1423 815,1431 805,1475 766,1480"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="842,152 834,140 536,139 519,138 362,137 122,130 125,146"/></SeparatorRegion></Page></PcGts>

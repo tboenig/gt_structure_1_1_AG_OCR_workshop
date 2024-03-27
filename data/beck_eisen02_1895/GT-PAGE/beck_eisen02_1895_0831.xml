@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-beck_eisen02_1895_0831"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:23</Created>
+	<LastChange>2022-01-10T13:37:47</LastChange></Metadata><Page imageFilename="jpg/beck_eisen02_1895_0831.jpg" imageWidth="2436" imageHeight="3281" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="13,569 1615,569 1615,1821 13,1821"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="31,1873 1615,1873 1615,2799 31,2799"/></TableRegion>
+	<TextRegion id="region_3" type="footnote">
+	<Coords points="32,2789 1537,2789 1537,2901 32,2901"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

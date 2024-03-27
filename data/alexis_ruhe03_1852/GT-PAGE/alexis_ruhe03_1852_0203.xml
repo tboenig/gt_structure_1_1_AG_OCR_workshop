@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-alexis_ruhe03_1852_0203"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:07:32</Created>
+	<LastChange>2021-10-22T13:56:26</LastChange></Metadata><Page imageFilename="jpg/alexis_ruhe03_1852_0203.jpg" imageWidth="1828" imageHeight="2511" type="content">
+	<Border>
+	<Coords points="9,2262 9,331 1237,331 1237,2262"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="529,383 605,383 605,429 529,429"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="73,1964 74,1964 74,1785 72,1785 72,1693 74,1693 74,1539 76,1539 76,1500 77,1500 77,1321 79,1321 79,1146 78,1146 78,1119 79,1119 79,975 78,975 78,956 80,956 80,835 79,835 79,797 80,797 80,742 82,742 82,694 84,694 84,586 87,586 87,580 88,580 88,474 159,474 159,477 188,477 188,483 248,483 248,484 353,484 353,475 372,475 372,476 408,476 408,486 485,486 485,478 510,478 510,488 544,488 544,489 611,489 611,484 630,484 630,486 723,486 723,492 840,492 840,484 859,484 859,485 896,485 896,495 979,495 979,489 1055,489 1055,535 1053,535 1053,640 1051,640 1051,796 1050,796 1050,953 1049,953 1049,996 1048,996 1048,999 1047,999 1047,1059 1046,1059 1046,1162 1044,1162 1044,1319 1043,1319 1043,1552 1044,1552 1044,1581 1043,1581 1043,1740 1042,1740 1042,2003 986,2003 986,2011 976,2011 976,2012 958,2012 958,2007 870,2007 870,2011 852,2011 852,2003 761,2003 761,2007 737,2007 737,2011 727,2011 727,2012 706,2012 706,2003 576,2003 576,2007 559,2007 559,2003 439,2003 439,2002 367,2002 367,2003 319,2003 319,2009 299,2009 299,2003 224,2003 224,2002 195,2002 195,2001 94,2001 94,2006 73,2006"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="145,2015 168,2015 168,2016 180,2016 180,2017 192,2017 192,2026 812,2026 812,2018 856,2018 856,2056 812,2056 812,2026 200,2026 200,2056 145,2056"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="453,430 493,430 499,432 676,432 676,447 453,447"/></SeparatorRegion></Page></PcGts>

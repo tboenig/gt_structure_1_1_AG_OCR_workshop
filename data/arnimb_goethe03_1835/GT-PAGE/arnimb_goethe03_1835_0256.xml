@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arnimb_goethe03_1835_0256"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:07:55</Created>
+	<LastChange>2022-01-06T17:05:13</LastChange></Metadata><Page imageFilename="jpg/arnimb_goethe03_1835_0256.jpg" imageWidth="1675" imageHeight="2286" type="blank">
+	<Border>
+	<Coords points="365,202 403,2214 1623,2164 1602,172"/></Border></Page></PcGts>

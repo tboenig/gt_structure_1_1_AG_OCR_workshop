@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:DC="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mets="http://www.loc.gov/METS/" xmlns:DV="http://dfg-viewer.de/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:gt="http://www.ocr-d.de/GT/" xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/mods-3-7.xsd http://www.loc.gov/mets/ http://www.loc.gov/standards/mets/version111/mets.xsd">
+  <mets:metsHdr CREATEDATE="2019-02-13T17:14:56.625+01:00">
+    <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
+      <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical
+          Character Recognition (OCR-D)</mets:name>
+      <mets:note>OCR-D</mets:note>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization/binarization">
+      <mets:name>ocrd-cis-ocropy-binarize v0.1.5</mets:name>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="input-file-grp">OCR-D-GT-SEG-BLOCK</mets:note>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="output-file-grp">OCR-D-BIN</mets:note>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="parameter">{"level-of-operation": "page", "method": "ocropy", "threshold": 0.5, "grayscale": false, "maxskew": 0.0, "noise_maxsize": 0, "dpi": 0}</mets:note>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="page-id"/>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="layout/segmentation/region">
+      <mets:name>ocrd-cis-ocropy-segment v0.1.5</mets:name>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="input-file-grp">OCR-D-BIN</mets:note>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="output-file-grp">OCR-D-LINESPROC</mets:note>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="parameter">{"level-of-operation": "region", "dpi": 0, "maxcolseps": 20, "maxseps": 20, "maximages": 10, "csminheight": 4, "hlminwidth": 10, "gap_height": 0.01, "gap_width": 1.5, "overwrite_order": true, "overwrite_separators": true, "overwrite_regions": true, "overwrite_lines": true, "spread": 2.4}</mets:note>
+      <mets:note xmlns:ocrd="https://ocr-d.de" ocrd:option="page-id"/>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="dmdSec_0001">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods>
+          <mods:location>
+            <mods:physicalLocation>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</mods:physicalLocation>
+            <mods:shelfLocator>SBB-PK, Fe 3617</mods:shelfLocator>
+            <mods:url>http://stabikat.de/DB=1/SET=12/TTL=1/CMD?ACT=SRCHA&amp;IKT=1016&amp;SRT=YOP&amp;TRM=410709964</mods:url>
+          </mods:location>
+          <mods:originInfo>
+            <mods:place>
+              <mods:placeTerm type="text">Heidelberg Leipzig</mods:placeTerm>
+            </mods:place>
+            <mods:dateIssued encoding="w3cdtf" keyDate="yes">1835</mods:dateIssued>
+            <mods:publisher>
+                     Groos
+                  </mods:publisher>
+          </mods:originInfo>
+          <mods:originInfo>
+            <mods:dateCaptured encoding="w3cdtf">2018-05-16T09:05:36Z</mods:dateCaptured>
+            <mods:edition>[Electronic ed.]</mods:edition>
+          </mods:originInfo>
+          <mods:classification authority="DTA">Fachtext</mods:classification>
+          <mods:classification authority="DTA">Ökonomie</mods:classification>
+          <mods:identifier type="urn">urn:nbn:de:kobv:b4-20090519205</mods:identifier>
+          <mods:identifier type="purl">http://www.deutschestextarchiv.de/baumstark_encyclopaedie_1835</mods:identifier>
+          <mods:identifier type="dtaid">16397</mods:identifier>
+          <mods:titleInfo>
+            <mods:title>Kameralistische Encyclopädie</mods:title>
+            <mods:subTitle>Handbuch der Kameralwissenschaften und ihrer Literatur für Rechts- und Verwaltungs-Beamten, Landstände, Gemeinde- Räthe und Kameral-Candidaten</mods:subTitle>
+          </mods:titleInfo>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
+          </mods:language>
+          <mods:relatedItem type="series">
+            <mods:titleInfo>
+              <mods:title/>
+            </mods:titleInfo>
+          </mods:relatedItem>
+          <mods:name type="personal">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Baumstark</mods:namePart>
+            <mods:namePart type="given">Eduard</mods:namePart>
+            <mods:displayForm>Eduard Baumstark</mods:displayForm>
+          </mods:name>
+          <mods:physicalDescription>
+            <mods:extent>XVI, 799 S.</mods:extent>
+          </mods:physicalDescription>
+          <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:accessCondition displayLabel="Access Status" type="restriction on access" xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
+          <mods:extension>
+            <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
+              <zvdd:titleWord>Kameralistische Encyclopädie Handbuch der Kameralwissenschaften und ihrer Literatur für Rechts- und Verwaltungs-Beamten, Landstände, Gemeinde- Räthe und Kameral-Candidaten</zvdd:titleWord>
+            </zvdd:zvddWrap>
+          </mods:extension>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0001">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0002">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0003">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0004">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0005">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0006">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0007">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="DMDGT_0008">
+    <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+      <mets:xmlData>
+        <gt:gt>
+          <gt:state prop="granularity/physical/document-related/region"/>
+        </gt:gt>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="amdSec_0001">
+    <mets:rightsMD ID="rights_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+        <mets:xmlData>
+          <DV:rights>
+            <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
+                Optical-Character-Recognition OCR-D</DV:owner>
+            <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
+            <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
+            <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
+          </DV:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="digiprovMD_0001">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <DV:links>
+            <DV:reference/>
+            <DV:presentation>http://www.deutschestextarchiv.de/baumstark_encyclopaedie_1835</DV:presentation>
+          </DV:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001" GROUPID="OCR-D-IMG_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0008.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002" GROUPID="OCR-D-IMG_0002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0012.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0003" GROUPID="OCR-D-IMG_0003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0014.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0004" GROUPID="OCR-D-IMG_0004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0023.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0005" GROUPID="OCR-D-IMG_0005">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0029.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0006" GROUPID="OCR-D-IMG_0006">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0034.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0007" GROUPID="OCR-D-IMG_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0039.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0008" GROUPID="OCR-D-IMG_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0042.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001" GROUPID="OCR-D-IMG_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0008.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002" GROUPID="OCR-D-IMG_0002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0012.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0003" GROUPID="OCR-D-IMG_0003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0014.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0004" GROUPID="OCR-D-IMG_0004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0023.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0005" GROUPID="OCR-D-IMG_0005">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0029.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0006" GROUPID="OCR-D-IMG_0006">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0034.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0007" GROUPID="OCR-D-IMG_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0039.xml"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0008" GROUPID="OCR-D-IMG_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0042.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DEFAULT">
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0008.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0012.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0014.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0023.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0029.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0034.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0039.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008" GROUPID="OCR-D-IMG_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0042.jpg"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0008.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0012.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0014.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0023.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0029.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0034.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0039.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/baumstark_encyclopaedie_1835_0042.jpg"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-BIN">
+      <mets:file ID="OCR-D-BIN_0001.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0001.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0001" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0001.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0002.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0002.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0002" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0002.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0003.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0003.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0003" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0003.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0004.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0004.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0004" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0004.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0005.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0005.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0005" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0005.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0006.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0006.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0006" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0006.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0007.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0007.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0007" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0007.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0008.IMG-BIN" MIMETYPE="image/png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0008.IMG-BIN.png"/>
+      </mets:file>
+      <mets:file ID="OCR-D-BIN_0008" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-BIN/OCR-D-BIN_0008.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-LINESPROC">
+      <mets:file ID="OCR-D-LINESPROC_0001" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0001.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0002" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0002.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0003" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0003.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0004" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0004.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0005" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0005.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0006" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0006.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0007" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0007.xml"/>
+      </mets:file>
+      <mets:file ID="OCR-D-LINESPROC_0008" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-LINESPROC/OCR-D-LINESPROC_0008.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div TYPE="Monograph" DMDID="dmdSec_0001" ADMID="amdSec_0001" ID="loc_0001">
+      <mets:div ID="loc_d1e420" TYPE="Chapter" LABEL=""/>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0001">
+      <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
+        <mets:fptr FILEID="DEFAULT_0001"/>
+        <mets:fptr FILEID="OCR-D-IMG_0001"/>
+        <mets:fptr FILEID="OCR-D-BIN_0001.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0001"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0001"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="2" ID="phys_0002" DMDID="DMDGT_0002">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
+        <mets:fptr FILEID="DEFAULT_0002"/>
+        <mets:fptr FILEID="OCR-D-IMG_0002"/>
+        <mets:fptr FILEID="OCR-D-BIN_0002.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0002"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0002"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="3" ID="phys_0003" DMDID="DMDGT_0003">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0003"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0003"/>
+        <mets:fptr FILEID="DEFAULT_0003"/>
+        <mets:fptr FILEID="OCR-D-IMG_0003"/>
+        <mets:fptr FILEID="OCR-D-BIN_0003.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0003"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0003"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="4" ID="phys_0004" DMDID="DMDGT_0004">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0004"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0004"/>
+        <mets:fptr FILEID="DEFAULT_0004"/>
+        <mets:fptr FILEID="OCR-D-IMG_0004"/>
+        <mets:fptr FILEID="OCR-D-BIN_0004.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0004"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0004"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="5" ID="phys_0005" DMDID="DMDGT_0005">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0005"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0005"/>
+        <mets:fptr FILEID="DEFAULT_0005"/>
+        <mets:fptr FILEID="OCR-D-IMG_0005"/>
+        <mets:fptr FILEID="OCR-D-BIN_0005.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0005"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0005"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="6" ID="phys_0006" DMDID="DMDGT_0006">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
+        <mets:fptr FILEID="DEFAULT_0006"/>
+        <mets:fptr FILEID="OCR-D-IMG_0006"/>
+        <mets:fptr FILEID="OCR-D-BIN_0006.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0006"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0006"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="7" ID="phys_0007" DMDID="DMDGT_0007">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0007"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0007"/>
+        <mets:fptr FILEID="DEFAULT_0007"/>
+        <mets:fptr FILEID="OCR-D-IMG_0007"/>
+        <mets:fptr FILEID="OCR-D-BIN_0007.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0007"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0007"/>
+      </mets:div>
+      <mets:div TYPE="page" ORDER="8" ID="phys_0008" DMDID="DMDGT_0008">
+        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0008"/>
+        <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0008"/>
+        <mets:fptr FILEID="DEFAULT_0008"/>
+        <mets:fptr FILEID="OCR-D-IMG_0008"/>
+        <mets:fptr FILEID="OCR-D-BIN_0008.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-BIN_0008"/>
+        <mets:fptr FILEID="OCR-D-LINESPROC_0008"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0000"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0001"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0002"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0003"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0004"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0005"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0006"/>
+    <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0007"/>
+  </mets:structLink>
+</mets:mets>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-becher_narrheit_1682_0041">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T14:34:08</Created>
+	<LastChange>2022-11-11T08:28:31</LastChange></Metadata>
+	<Page imageFilename="jpg/becher_narrheit_1682_0041.jpg" imageWidth="1024" imageHeight="1840" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="375,136 375,137 408,137 408,169 403,169 403,171 401,171 401,172 358,172 358,171 357,171 357,170 356,170 356,168 355,168 355,166 354,166 354,163 353,163 353,160 352,160 352,153 353,153 353,146 354,146 354,142 355,142 355,140 357,140 357,139 369,139 369,136"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="715,176 715,1274 680,1274 680,1276 679,1276 679,1277 128,1277 128,1274 124,1274 124,1273 66,1273 66,176"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="663,1278 663,1279 665,1279 665,1280 666,1280 666,1287 683,1287 683,1288 684,1288 684,1289 687,1289 687,1295 685,1295 685,1298 684,1298 684,1309 683,1309 683,1310 682,1310 682,1312 678,1312 678,1313 676,1313 676,1314 667,1314 667,1315 666,1315 666,1316 647,1316 647,1318 646,1318 646,1323 641,1323 641,1320 640,1320 640,1319 639,1319 639,1298 638,1298 638,1297 637,1297 637,1293 638,1293 638,1289 639,1289 639,1288 640,1288 640,1286 641,1286 641,1285 642,1285 642,1283 643,1283 643,1282 645,1282 645,1281 654,1281 654,1280 655,1280 655,1279 656,1279 656,1278"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="454,1280 454,1281 457,1281 457,1283 458,1283 458,1284 459,1284 459,1285 461,1285 461,1286 462,1286 462,1305 461,1305 461,1306 460,1306 460,1309 458,1309 458,1311 457,1311 457,1312 455,1312 455,1313 454,1313 454,1314 452,1314 452,1315 449,1315 449,1316 448,1316 448,1317 443,1317 443,1316 440,1316 440,1315 439,1315 439,1314 438,1314 438,1313 428,1313 428,1311 427,1311 427,1310 426,1310 426,1304 424,1304 424,1303 423,1303 423,1282 419,1282 419,1280 418,1280"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

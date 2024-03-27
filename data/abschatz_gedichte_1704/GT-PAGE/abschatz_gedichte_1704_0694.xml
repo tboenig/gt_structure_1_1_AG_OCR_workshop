@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abschatz_gedichte_1704_0694"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:20</Created>
+	<LastChange>2021-10-19T15:34:11</LastChange></Metadata><Page imageFilename="jpg/abschatz_gedichte_1704_0694.jpg" imageWidth="1024" imageHeight="1996" type="content">
+	<Border>
+	<Coords points="117,1600 112,82 963,80 965,1582"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="region_1" index="2"/>
+	<RegionRefIndexed regionRef="region_2" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="region_4" index="5"/>
+	<RegionRefIndexed regionRef="region_5" index="6"/>
+	<RegionRefIndexed regionRef="region_6" index="7"/>
+	<RegionRefIndexed regionRef="region_7" index="8"/>
+	<RegionRefIndexed regionRef="region_8" index="9"/>
+	<RegionRefIndexed regionRef="r5" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+	<Coords points="156,196 319,183 338,183 527,175 551,173 769,175 774,244 160,262"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="161,272 881,260 886,421 152,421"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="217,556 215,489 495,478 611,477 866,472 858,676 231,701 163,696 164,556"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#poem_lg" type="paragraph">
+	<Coords points="166,707 896,684 906,894 162,914"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#poem_lg" type="paragraph">
+	<Coords points="170,926 825,905 813,1120 162,1134"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" custom="#poem_lg" type="paragraph">
+	<Coords points="173,1150 926,1134 919,1337 170,1357"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" custom="#poem_lg" type="paragraph">
+	<Coords points="181,1375 814,1357 814,1488 183,1487"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="727,149 727,105 682,99 376,105 376,149"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="216,168 216,123 151,123 151,168"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="943,155 942,169 748,166 551,169 443,174 329,178 157,188 158,175 716,156"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="617,472 617,429 503,429 503,472"/></SeparatorRegion>
+	<TextRegion id="r4" type="drop-capital">
+	<Coords points="214,553 214,494 164,494 164,553"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords points="944,1496 944,1452 900,1452 900,1496"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

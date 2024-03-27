@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-beck_eisen01_1884_0029"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:08:22</Created>
+	<LastChange>2022-01-07T13:01:27</LastChange></Metadata><Page imageFilename="jpg/beck_eisen01_1884_0029.jpg" imageWidth="2487" imageHeight="3197" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="1756,340 1756,3009 12,3009 12,340"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="region_4" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="674,425 674,427 742,427 742,430 755,430 755,434 756,434 756,435 831,435 831,449 838,449 838,455 837,455 837,456 829,456 829,460 814,460 814,463 810,463 810,462 809,462 809,457 641,457 641,425"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1400,423 1400,429 1399,429 1399,430 1397,430 1397,436 1395,436 1395,452 1394,452 1394,454 1388,454 1388,429 1387,429 1387,425 1392,425 1392,424 1396,424 1396,423"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_4" rows="11" columns="3">
+	<Coords points="203,1253 1295,1253 1295,1916 203,1916"/>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="217,1259 648,1260 648,1356 217,1355"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="652,1260 999,1261 999,1357 652,1356"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="1003,1261 1276,1263 1276,1359 1003,1357"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="217,1359 648,1360 648,1415 217,1414"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="652,1360 999,1361 999,1416 652,1415"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="1003,1361 1276,1363 1276,1418 1003,1416"/>
+	<Roles>
+	<TableCellRole rowIndex="1" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="217,1418 648,1419 648,1465 217,1464"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="652,1419 999,1420 999,1466 652,1465"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="1003,1420 1276,1422 1276,1468 1003,1466"/>
+	<Roles>
+	<TableCellRole rowIndex="2" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="217,1468 648,1469 648,1525 217,1524"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="652,1469 999,1470 999,1526 652,1525"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="1003,1470 1276,1472 1276,1528 1003,1526"/>
+	<Roles>
+	<TableCellRole rowIndex="3" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="217,1528 648,1529 648,1582 217,1581"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="652,1529 999,1530 999,1583 652,1582"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="1003,1530 1276,1532 1276,1585 1003,1583"/>
+	<Roles>
+	<TableCellRole rowIndex="4" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="217,1585 648,1586 648,1632 217,1631"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="652,1586 999,1587 999,1633 652,1632"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="1003,1587 1276,1589 1276,1635 1003,1633"/>
+	<Roles>
+	<TableCellRole rowIndex="5" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="217,1635 648,1636 648,1687 217,1686"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="652,1636 999,1637 999,1688 652,1687"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="1003,1637 1276,1639 1276,1690 1003,1688"/>
+	<Roles>
+	<TableCellRole rowIndex="6" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="217,1690 648,1691 648,1741 217,1740"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="652,1691 999,1692 999,1742 652,1741"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="1003,1692 1276,1694 1276,1744 1003,1742"/>
+	<Roles>
+	<TableCellRole rowIndex="7" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="217,1744 648,1745 648,1802 217,1801"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="652,1745 999,1746 999,1803 652,1802"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="1003,1746 1276,1748 1276,1805 1003,1803"/>
+	<Roles>
+	<TableCellRole rowIndex="8" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="217,1805 648,1806 648,1852 217,1851"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="652,1806 999,1807 999,1853 652,1852"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="1003,1807 1276,1809 1276,1855 1003,1853"/>
+	<Roles>
+	<TableCellRole rowIndex="9" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="217,1855 648,1856 648,1906 213,1905"/>
+	<Roles>
+	<TableCellRole rowIndex="10" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="652,1856 999,1857 999,1907 652,1906"/>
+	<Roles>
+	<TableCellRole rowIndex="10" columnIndex="1"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="1003,1857 1276,1859 1280,1909 1003,1907"/>
+	<Roles>
+	<TableCellRole rowIndex="10" columnIndex="2"/></Roles>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<Grid>
+	<GridPoints index="0" points="215,1257 650,1258 1001,1259 1278,1261"/>
+	<GridPoints index="1" points="215,1357 650,1358 1001,1359 1278,1361"/>
+	<GridPoints index="2" points="215,1416 650,1417 1001,1418 1278,1420"/>
+	<GridPoints index="3" points="215,1466 650,1467 1001,1468 1278,1470"/>
+	<GridPoints index="4" points="215,1526 650,1527 1001,1528 1278,1530"/>
+	<GridPoints index="5" points="215,1583 650,1584 1001,1585 1278,1587"/>
+	<GridPoints index="6" points="215,1633 650,1634 1001,1635 1278,1637"/>
+	<GridPoints index="7" points="215,1688 650,1689 1001,1690 1278,1692"/>
+	<GridPoints index="8" points="215,1742 650,1743 1001,1744 1278,1746"/>
+	<GridPoints index="9" points="215,1803 650,1804 1001,1805 1278,1807"/>
+	<GridPoints index="10" points="215,1853 650,1854 1001,1855 1278,1857"/>
+	<GridPoints index="11" points="211,1907 650,1908 1001,1909 1282,1911"/></Grid></TableRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="90,486 90,496 91,496 91,499 121,499 121,500 173,500 173,501 174,501 174,502 334,502 334,493 383,493 383,495 384,495 384,497 501,497 501,496 502,496 502,495 506,495 506,500 619,500 619,496 732,496 732,507 836,507 836,506 837,506 837,505 919,505 919,494 1012,494 1012,493 1013,493 1013,492 1017,492 1017,494 1175,494 1175,493 1192,493 1192,492 1198,492 1198,503 1325,503 1325,494 1326,494 1326,493 1330,493 1330,495 1331,495 1331,503 1402,503 1402,504 1403,504 1403,508 1402,508 1402,528 1387,528 1387,531 1383,531 1383,530 1382,530 1382,525 897,525 897,526 782,526 782,527 748,527 748,528 621,528 621,527 565,527 565,526 395,526 395,579 394,579 394,580 385,580 385,581 335,581 335,579 174,579 174,581 173,581 173,583 172,583 172,584 168,584 168,583 154,583 154,582 153,582 153,576 123,576 123,575 107,575 107,574 86,574 86,573 76,573 76,572 75,572 75,570 74,570 74,556 72,556 72,511 71,511 71,505 72,505 72,501 73,501 73,500 74,500 74,499 75,499 75,498 83,498 83,486"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="170,599 170,600 196,600 196,601 243,601 243,602 272,602 272,603 328,603 328,604 467,604 467,605 620,605 620,606 635,606 635,607 636,607 636,617 751,617 751,606 834,606 834,605 841,605 841,610 939,610 939,606 940,606 940,605 993,605 993,604 994,604 994,603 1091,603 1091,602 1129,602 1129,612 1158,612 1158,613 1263,613 1263,602 1269,602 1269,603 1270,603 1270,604 1332,604 1332,606 1333,606 1333,608 1343,608 1343,609 1344,609 1344,613 1396,613 1396,614 1397,614 1397,615 1398,615 1398,616 1399,616 1399,620 1400,620 1400,630 1401,630 1401,678 1404,678 1404,683 1400,683 1400,782 1402,782 1402,783 1403,783 1403,790 1393,790 1393,799 1382,799 1382,800 1124,800 1124,801 1048,801 1048,802 1038,802 1038,805 1022,805 1022,808 871,808 871,812 827,812 827,857 825,857 825,858 764,858 764,865 745,865 745,864 744,864 744,858 649,858 649,857 503,857 503,856 358,856 358,855 309,855 309,854 253,854 253,853 222,853 222,852 177,852 177,851 149,851 149,850 136,850 136,849 126,849 126,848 118,848 118,847 99,847 99,846 84,846 84,843 83,843 83,840 82,840 82,837 81,837 81,834 80,834 80,831 79,831 79,827 78,827 78,824 77,824 77,821 76,821 76,819 75,819 75,818 74,818 74,791 73,791 73,721 72,721 72,717 73,717 73,662 127,662 127,653 160,653 160,599"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="171,874 171,875 198,875 198,876 266,876 266,877 269,877 269,887 375,887 375,879 376,879 376,878 381,878 381,879 495,879 495,880 496,880 496,890 619,890 619,886 620,886 620,884 621,884 621,882 629,882 629,881 894,881 894,880 898,880 898,881 899,881 899,884 922,884 922,890 1030,890 1030,880 1125,880 1125,879 1154,879 1154,878 1292,878 1292,888 1350,888 1350,889 1388,889 1388,890 1389,890 1389,896 1402,896 1402,897 1403,897 1403,955 1404,955 1404,961 1403,961 1403,1062 1404,1062 1404,1122 1403,1122 1403,1123 1402,1123 1402,1180 1372,1180 1372,1181 1228,1181 1228,1182 1187,1182 1187,1183 1076,1183 1076,1184 1040,1184 1040,1185 1039,1185 1039,1191 1038,1191 1038,1193 1034,1193 1034,1185 756,1185 756,1238 755,1238 755,1239 745,1239 745,1240 740,1240 740,1239 612,1239 612,1240 597,1240 597,1239 519,1239 519,1238 399,1238 399,1237 330,1237 330,1236 320,1236 320,1235 310,1235 310,1232 176,1232 176,1231 163,1231 163,1230 137,1230 137,1229 133,1229 133,1228 116,1228 116,1227 86,1227 86,1225 85,1225 85,1222 84,1222 84,1219 83,1219 83,1216 82,1216 82,1213 81,1213 81,1209 80,1209 80,1206 79,1206 79,1203 78,1203 78,1200 77,1200 77,1199 76,1199 76,1171 73,1171 73,1105 74,1105 74,1102 75,1102 75,955 73,955 73,938 82,938 82,937 89,937 89,936 90,936 90,935 91,935 91,933 92,933 92,931 93,931 93,928 106,928 106,927 160,927 160,874"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="313,1920 313,1921 400,1921 400,1922 450,1922 450,1923 451,1923 451,1924 510,1924 510,1928 523,1928 523,1935 527,1935 527,1936 673,1936 673,1926 739,1926 739,1927 740,1927 740,1937 846,1937 846,1927 847,1927 847,1926 852,1926 852,1927 853,1927 853,1929 905,1929 905,1932 912,1932 912,1936 913,1936 913,1937 1022,1937 1022,1928 1023,1928 1023,1926 1052,1926 1052,1925 1059,1925 1059,1926 1173,1926 1173,1927 1228,1927 1228,1937 1333,1937 1333,1936 1334,1936 1334,1935 1335,1935 1335,1933 1336,1933 1336,1931 1379,1931 1379,1929 1380,1929 1380,1928 1390,1928 1390,1927 1394,1927 1394,1928 1395,1928 1395,1947 1406,1947 1406,2104 1407,2104 1407,2105 1408,2105 1408,2109 1407,2109 1407,2110 1406,2110 1406,2111 1404,2111 1404,2213 1406,2213 1406,2220 1402,2220 1402,2322 1404,2322 1404,2332 1405,2332 1405,2334 1406,2334 1406,2390 1405,2390 1405,2449 1403,2449 1403,2547 1404,2547 1404,2548 1405,2548 1405,2613 1406,2613 1406,2665 1405,2665 1405,2666 1399,2666 1399,2680 1365,2680 1365,2681 1327,2681 1327,2683 1326,2683 1326,2686 1313,2686 1313,2687 1308,2687 1308,2686 1307,2686 1307,2678 1251,2678 1251,2677 1228,2677 1228,2676 1184,2676 1184,2673 1037,2673 1037,2672 834,2672 834,2677 833,2677 833,2679 832,2679 832,2680 828,2680 828,2672 784,2672 784,2671 764,2671 764,2670 666,2670 666,2669 532,2669 532,2670 493,2670 493,2676 492,2676 492,2677 474,2677 474,2671 352,2671 352,2670 334,2670 334,2669 282,2669 282,2668 261,2668 261,2667 229,2667 229,2666 194,2666 194,2665 193,2665 193,2664 138,2664 138,2663 134,2663 134,2662 117,2662 117,2661 93,2661 93,2660 73,2660 73,2631 72,2631 72,2626 74,2626 74,2520 73,2520 73,2419 74,2419 74,2418 75,2418 75,2248 76,2248 76,2192 77,2192 77,2034 76,2034 76,2030 77,2030 77,1976 134,1976 134,1968 163,1968 163,1941 165,1941 165,1940 166,1940 166,1920"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

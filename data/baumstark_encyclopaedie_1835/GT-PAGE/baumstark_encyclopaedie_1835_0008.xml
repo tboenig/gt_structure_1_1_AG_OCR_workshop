@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-baumstark_encyclopaedie_1835_0008">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T08:08:03</Created>
+	<LastChange>2022-11-11T10:26:26</LastChange></Metadata>
+	<Page imageFilename="jpg/baumstark_encyclopaedie_1835_0008.jpg" imageWidth="1503" imageHeight="2470" type="content">
+	<GraphicRegion id="r0" type="handwritten-annotation">
+	<Coords points="1473,2106 1473,1693 453,1693 453,2106"/></GraphicRegion></Page></PcGts>

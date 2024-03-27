@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-becher_narrheit_1682_0028">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:08</Created>
+	<LastChange>2022-11-10T17:05:59</LastChange></Metadata>
+	<Page imageFilename="jpg/becher_narrheit_1682_0028.jpg" imageWidth="1024" imageHeight="1840" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="622,166 622,169 624,169 624,174 625,174 625,177 626,177 626,181 627,181 627,186 626,186 626,193 625,193 625,194 624,194 624,196 623,196 623,198 622,198 622,199 621,199 621,200 602,200 602,202 586,202 586,171 596,171 596,170 615,170 615,166"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="593,204 593,207 642,207 642,208 643,208 643,209 905,209 905,208 907,208 907,207 913,207 913,216 917,216 917,217 918,217 918,225 919,225 919,277 918,277 918,312 917,312 917,313 916,313 916,432 915,432 915,433 914,433 914,557 913,557 913,560 912,560 912,853 919,853 919,955 923,955 923,959 907,959 907,1033 906,1033 906,1231 907,1231 907,1237 906,1237 906,1326 903,1326 903,1327 896,1327 896,1337 572,1337 572,1335 374,1335 374,1337 370,1337 370,1334 314,1334 314,1332 296,1332 296,1331 295,1331 295,1329 294,1329 294,1328 292,1328 292,1327 291,1327 291,1252 290,1252 290,1161 289,1161 289,1155 290,1155 290,1154 294,1154 294,876 291,876 291,809 288,809 288,805 296,805 296,792 297,792 297,597 300,597 300,593 301,593 301,354 300,354 300,273 295,273 295,252 291,252 291,215 288,215 288,211 313,211 313,209 315,209 315,208 316,208 316,207 323,207 323,209 589,209 589,204"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="875,1338 875,1345 894,1345 894,1349 895,1349 895,1350 908,1350 908,1351 909,1351 909,1352 910,1352 910,1360 909,1360 909,1379 908,1379 908,1380 905,1380 905,1381 898,1381 898,1376 869,1376 869,1374 861,1374 861,1373 851,1373 851,1372 850,1372 850,1368 848,1368 848,1359 849,1359 849,1343 850,1343 850,1342 853,1342 853,1341 862,1341 862,1339 863,1339 863,1338"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-bebel_frau_1879_0186">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T08:08:20</Created>
+	<LastChange>2022-11-11T10:13:54</LastChange></Metadata>
+	<Page imageFilename="jpg/bebel_frau_1879_0186.jpg" imageWidth="1065" imageHeight="1633" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_1">
+	<Coords points="723,453 723,494 724,494 724,498 722,498 722,522 448,522 448,521 445,521 445,517 447,517 447,508 468,508 468,490 478,490 478,489 492,489 492,458 574,458 574,454 578,454 578,458 665,458 665,459 666,459 666,460 714,460 714,494 719,494 719,453"/></SeparatorRegion>
+	<TextRegion id="region_2" custom="#back_paragraph" type="paragraph">
+	<Coords points="819,1485 819,1487 823,1487 823,1488 824,1488 824,1494 832,1494 832,1498 831,1498 831,1499 830,1499 830,1500 829,1500 829,1501 815,1501 815,1502 791,1502 791,1504 337,1504 337,1503 325,1503 325,1502 321,1502 321,1494 320,1494 320,1489 321,1489 321,1487 322,1487 322,1486 341,1486 341,1485"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1002,93 1002,274 154,274 154,93"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="657,41 657,59 487,59 487,41"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

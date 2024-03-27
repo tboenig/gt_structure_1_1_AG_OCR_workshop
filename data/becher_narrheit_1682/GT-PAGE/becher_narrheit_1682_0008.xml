@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-becher_narrheit_1682_0008">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:34:08</Created>
+	<LastChange>2022-11-11T08:38:19</LastChange></Metadata>
+	<Page imageFilename="jpg/becher_narrheit_1682_0008.jpg" imageWidth="1024" imageHeight="1840" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="282,155 282,162 835,162 835,163 836,163 836,164 838,164 838,165 839,165 839,166 841,166 841,168 842,168 842,171 883,171 883,172 884,172 884,173 900,173 900,180 901,180 901,183 905,183 905,185 906,185 906,233 907,233 907,237 906,237 906,238 904,238 904,381 903,381 903,429 902,429 902,985 901,985 901,1111 900,1111 900,1113 898,1113 898,1187 897,1187 897,1201 896,1201 896,1205 895,1205 895,1209 894,1209 894,1210 893,1210 893,1211 892,1211 892,1212 890,1212 890,1213 889,1213 889,1214 888,1214 888,1215 886,1215 886,1216 836,1216 836,1268 385,1268 385,1255 384,1255 384,1250 383,1250 383,1244 365,1244 365,1233 303,1233 303,1224 296,1224 296,1223 292,1223 292,1170 285,1170 285,1169 283,1169 283,1168 278,1168 278,1156 272,1156 272,1152 286,1152 286,1151 287,1151 287,757 288,757 288,166 277,166 277,161 278,161 278,155"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="catch-word">
+	<Coords points="834,1268 834,1277 883,1277 883,1285 896,1285 896,1286 898,1286 898,1289 899,1289 899,1297 897,1297 897,1298 889,1298 889,1306 878,1306 878,1314 847,1314 847,1318 826,1318 826,1317 738,1317 738,1316 736,1316 736,1314 735,1314 735,1306 726,1306 726,1281 704,1281 704,1277 791,1277 791,1270 792,1270 792,1269 793,1269 793,1268"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,39 @@
+schema: https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json
+title: gt_structure_1_1_AG_OCR_workshop
+url: https://github.com/tboenig/gt_structure_1_1_AG_OCR_workshop
+authors:
+  - name: Matthias
+    surname: Boenig
+    orcid: 0000-0003-4615-4753
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - digitization
+      - support
+description: The repo gt_structure_1_1_AG_OCR_workshop is subset of the OCR-D Ground Truth Structure corpus (gt_structure_1_1). Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.  
+project-name: OCR-D
+project-website: https://ocr-d.de/
+language:
+  - deu
+production-software: Aletheia
+script:
+  - iso: Latn
+  - iso: Goth
+script-type: print
+time:
+  notBefore: '1600'
+  notAfter: '1920'
+hands:
+  count: '3'
+  level: levelmix
+license:
+  - name: CC0-1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtType: data_structure
+format: Page-XML
+citation-file-link: https://github.com/tboenig/gt_structure_1_1_AG_OCR_workshop/blob/main/CITATION.cff
+transcription-guidelines: |-
+  OCR-D-GT-Guideline, Part: Structure Ground Truth
+  https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html

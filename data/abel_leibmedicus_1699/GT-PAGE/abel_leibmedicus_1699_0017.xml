@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abel_leibmedicus_1699_0017"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T14:33:18</Created>
+	<LastChange>2021-10-20T09:56:37</LastChange></Metadata><Page imageFilename="jpg/abel_leibmedicus_1699_0017.jpg" imageWidth="1039" imageHeight="1700" type="table-of-contents" primaryLanguage="German">
+	<Border>
+	<Coords points="75,1622 75,39 931,39 931,1622"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r21" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r15" index="7"/>
+	<RegionRefIndexed regionRef="r13" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r7" index="11"/>
+	<RegionRefIndexed regionRef="r5" index="12"/>
+	<RegionRefIndexed regionRef="r3" index="13"/>
+	<RegionRefIndexed regionRef="r27" index="14"/>
+	<RegionRefIndexed regionRef="r1" index="15"/>
+	<RegionRefIndexed regionRef="region_3" index="16"/>
+	<RegionRefIndexed regionRef="region_4" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="292,59 708,58 710,109 291,110"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="TOC-entry">
+	<Coords points="150,130 229,131 321,124 348,132 370,133 415,129 470,127 581,132 607,129 849,131 849,225 800,227 799,184 146,178"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="617,1376 836,1376 841,1431 610,1429"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="447,1422 533,1427 516,1480 442,1481"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="846,127 846,115 374,118 151,115 150,128 236,128 320,121 372,124 421,126 434,125 844,128"/></SeparatorRegion>
+	<TextRegion id="r1" type="TOC-entry">
+	<Coords points="842,1369 836,1279 669,1271 183,1270 183,1368"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="TOC-entry">
+	<Coords points="843,1222 845,1187 593,1171 208,1166 194,1176 194,1220"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="TOC-entry">
+	<Coords points="842,1178 848,1084 779,1076 677,1077 628,1073 591,1074 552,1079 362,1076 297,1083 293,1073 192,1081 191,1123 505,1120 787,1135 788,1174"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="TOC-entry">
+	<Coords points="837,1079 843,1039 465,1019 431,1032 323,1032 280,1023 246,1019 190,1035 189,1073 266,1073 295,1065 297,1075 315,1067 459,1068 460,1074 481,1075 565,1071 595,1069 638,1060 757,1063 790,1072"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="TOC-entry">
+	<Coords points="836,1034 847,938 667,929 650,937 625,934 611,924 602,927 578,926 575,931 481,932 438,925 304,931 270,921 193,927 193,970 264,969 262,1018 349,1025 408,1019 409,974 787,981 792,1022"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="TOC-entry">
+	<Coords points="842,931 849,910 844,888 341,884 276,875 194,878 194,917 435,919 491,918 491,927 523,929 558,918 598,925 605,920 638,923 643,932 658,923 692,921"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="TOC-entry">
+	<Coords points="846,881 846,835 646,823 194,829 196,868 365,869 559,874 724,878"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="TOC-entry">
+	<Coords points="853,819 851,739 791,731 622,721 581,719 564,726 236,723 196,734 192,778 259,775 261,817 336,825 360,823 485,820 498,778 795,775 795,819"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="TOC-entry">
+	<Coords points="843,729 850,636 818,627 199,628 199,675 784,685 782,722 829,731"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="TOC-entry">
+	<Coords points="846,625 851,536 821,530 797,529 795,534 744,527 483,526 254,525 209,533 197,543 196,582 296,584 368,575 545,583 602,574 775,584 784,620"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="TOC-entry">
+	<Coords points="847,531 845,419 303,426 201,425 197,474 789,487 787,523"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="TOC-entry">
+	<Coords points="851,428 851,330 592,326 537,331 512,337 414,329 196,326 196,414"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="TOC-entry">
+	<Coords points="847,320 848,231 182,223 182,321 466,324 511,330 517,326 564,320"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="TOC-entry">
+	<Coords points="837,1270 839,1235 710,1225 687,1225 677,1230 621,1227 596,1227 581,1233 267,1225 216,1227 192,1237 193,1264"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,12 @@
+**/contentType/**
+**/tei/**
+**/mets.metsx
+**/mets/**
+mets.metsx.xml
+GT-PAGE-Archiv/
+*.xpr
+OCR-D-LINESPROC/
+OCR-D-BIN/
+
+
+

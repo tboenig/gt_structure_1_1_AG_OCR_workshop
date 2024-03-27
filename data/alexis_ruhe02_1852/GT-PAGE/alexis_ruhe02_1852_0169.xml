@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-alexis_ruhe02_1852_0169"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:07:31</Created>
+	<LastChange>2021-10-21T11:02:34</LastChange></Metadata><Page imageFilename="jpg/alexis_ruhe02_1852_0169.jpg" imageWidth="1955" imageHeight="2493" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="1200,257 1200,2175 0,2175 0,257"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="504,346 580,346 580,390 504,390"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="71,471 70,471 70,444 132,444 132,452 221,452 221,442 331,442 331,441 356,441 356,451 462,451 462,446 512,446 512,445 603,445 603,441 670,441 670,440 721,440 721,449 768,449 768,458 853,458 853,448 893,448 893,450 972,450 972,440 1023,440 1023,593 575,593 575,582 497,582 497,593 482,593 482,594 460,594 460,595 431,595 431,602 411,602 411,595 334,595 334,602 331,602 331,604 240,604 240,647 222,647 222,648 114,648 114,649 71,649"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="81,1855 80,1855 80,1804 78,1804 78,1750 77,1750 77,1632 76,1632 76,1525 75,1525 75,1382 74,1382 74,1347 75,1347 75,1118 73,1118 73,1050 72,1050 72,915 71,915 71,736 70,736 70,708 159,708 159,665 160,665 160,662 165,662 165,653 218,653 218,662 297,662 297,660 298,660 298,654 369,654 369,651 388,651 388,653 460,653 460,651 485,651 485,652 512,652 512,654 550,654 550,660 648,660 648,655 673,655 673,650 759,650 759,649 854,649 854,650 891,650 891,659 978,659 978,650 1024,650 1024,783 1025,783 1025,801 1023,801 1023,924 1025,924 1025,1031 1026,1031 1026,1099 1027,1099 1027,1117 1026,1117 1026,1294 1027,1294 1027,1344 1029,1344 1029,1376 1028,1376 1028,1431 1027,1431 1027,1608 1029,1608 1029,1639 1028,1639 1028,1797 1027,1797 1027,1838 1026,1838 1026,1959 922,1959 922,1966 905,1966 905,1959 733,1959 733,1963 732,1963 732,1964 716,1964 716,1959 591,1959 591,1976 512,1976 512,1980 495,1980 495,1961 416,1961 416,1968 381,1968 381,1961 295,1961 295,1970 265,1970 265,1962 172,1962 172,1964 152,1964 152,1962 81,1962"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="654,405 654,395 444,395 444,405"/></SeparatorRegion></Page></PcGts>

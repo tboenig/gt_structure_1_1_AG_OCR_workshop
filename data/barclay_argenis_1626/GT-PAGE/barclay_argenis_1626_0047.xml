@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-barclay_argenis_1626_0047">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:33:53</Created>
+	<LastChange>2022-11-15T09:16:38</LastChange></Metadata>
+	<Page imageFilename="jpg/barclay_argenis_1626_0047.jpg" imageWidth="1024" imageHeight="1582" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="259,139 259,140 263,140 263,141 266,141 266,144 468,144 468,145 469,145 469,146 470,146 470,155 471,155 471,156 472,156 472,157 473,157 473,160 474,160 474,169 480,169 480,174 479,174 479,175 471,175 471,176 470,176 470,178 469,178 469,180 468,180 468,183 467,183 467,184 466,184 466,185 459,184 461,179 441,178 414,180 367,178 364,185 364,187 359,187 359,186 358,186 358,181 261,181 261,180 259,180 259,179 256,179 256,178 254,178 254,177 253,177 253,176 251,176 251,175 243,175 243,161 242,161 242,148 243,148 243,146 244,146 244,144 246,144 246,143 251,143 251,141 255,141 255,139"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="633,145 633,146 634,146 634,150 629,150 629,176 628,176 628,178 627,178 627,179 626,179 626,181 625,181 625,182 623,182 623,183 622,183 622,184 618,184 618,183 617,183 617,160 618,160 618,159 619,159 619,158 625,158 625,145"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="649,186 649,1148 78,1148 78,186 353,189"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="597,1149 597,1155 625,1155 625,1156 626,1156 626,1157 627,1157 627,1174 626,1174 626,1175 601,1175 601,1180 599,1180 599,1181 594,1181 594,1176 542,1176 542,1174 538,1174 538,1172 537,1172 537,1171 536,1171 536,1170 535,1170 535,1168 534,1168 534,1158 535,1158 535,1156 541,1156 541,1150 547,1150 547,1149"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="signature-mark">
+	<Coords points="401,1149 401,1150 446,1150 446,1157 447,1157 447,1161 446,1161 446,1174 445,1174 445,1175 444,1175 444,1177 443,1177 443,1178 442,1178 442,1180 441,1180 441,1181 437,1181 437,1176 393,1176 393,1175 385,1175 385,1174 384,1174 384,1173 382,1173 382,1172 377,1172 377,1152 378,1152 378,1151 379,1151 379,1150 380,1150 380,1149"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

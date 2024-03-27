@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arnim_wunderhorn03_1808_0269"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T08:07:48</Created>
+	<LastChange>2022-01-07T10:30:47</LastChange></Metadata><Page imageFilename="jpg/arnim_wunderhorn03_1808_0269.jpg" imageWidth="1222" imageHeight="2290" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="8,20 8,2280 1221,2280 1221,20"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="98,791 98,792 178,792 178,793 180,793 180,794 182,794 182,795 183,795 183,802 328,802 328,796 329,796 329,795 330,795 330,792 331,792 331,791 452,791 452,801 569,801 569,800 570,800 570,798 571,798 571,796 574,796 574,794 575,794 575,793 576,793 576,791 1002,791 1002,849 808,849 808,848 802,848 802,846 792,846 792,845 582,845 582,846 578,846 578,845 474,845 474,847 467,847 467,848 458,848 458,849 450,849 450,845 421,845 421,844 415,844 415,843 414,843 414,842 312,842 312,843 311,843 311,844 306,844 306,843 179,843 179,844 101,844 101,845 100,845 100,847 68,847 68,846 58,846 58,845 57,845 57,829 59,829 59,828 60,828 60,827 62,827 62,817 63,817 63,804 64,804 64,802 65,802 65,798 68,798 68,797 69,797 69,795 70,795 70,794 73,794 73,793 74,793 74,792 75,792 75,791"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="630,1054 630,1067 433,1067 433,1066 431,1066 431,1057 433,1057 433,1056 434,1056 434,1054"/></SeparatorRegion></Page></PcGts>
